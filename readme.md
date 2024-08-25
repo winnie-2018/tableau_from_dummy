@@ -3,4 +3,4 @@ Hey there! This repository is where I share my adventure of diving into Tableau 
 
 I spruced up the `ds_salary.twb` file by adding a bunch of delightful images from my dashboard and storyboards. Also, I whipped up three charming reports that captured the evolution of my ideas as I ventured through exploration and experiments.
 
-I hope my work catches your eye and leaves a sweet impression!
+I hope my work catches your eye and leaves a sweet impression! 🍎

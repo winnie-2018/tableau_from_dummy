@@ -6,3 +6,5 @@ I spruced up the `ds_salary.twb` file by adding a bunch of delightful images🖼
 Also, I whipped up three charming reports 🧾 that captured the evolution of my ideas💡 as I ventured through exploration and experiments🧪.
 
 I hope my work catches your eye and leaves a sweet impression! 🍎
+
+Source of dataset: https://www.kaggle.com/datasets/henryshan/2023-data-scientists-salary
